@@ -1,0 +1,561 @@
+2026-11-16 14:40:02,264 - INFO - Cliente registrado: 123456
+2026-11-16 14:40:02,265 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 14:40:02,265 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 14:40:02,266 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 14:40:02,267 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 14:40:02,267 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 14:40:02,267 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 14:40:02,268 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 14:40:02,270 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-16 14:40:02,270 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 14:40:02,271 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 14:40:02,271 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 14:40:02,271 - INFO - Reserva cancelada: codigo 1
+2026-11-16 14:40:02,272 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-16 14:40:02,273 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 20:50:17,768 - INFO - Cliente registrado: 123456
+2026-11-16 20:50:17,769 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 20:50:17,770 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 20:50:17,771 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 20:50:17,771 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 20:50:17,772 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 20:50:17,772 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 20:50:17,772 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 20:50:17,774 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 20:50:17,774 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 20:50:17,775 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 20:50:17,775 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 20:50:17,775 - INFO - Reserva cancelada: codigo 2
+2026-11-16 20:50:17,776 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 20:50:17,776 - WARNING - Intento de busqueda de reserva inexistente: 1
+2026-11-16 20:50:17,777 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 20:52:39,490 - INFO - Cliente registrado: 123456
+2026-11-16 20:52:39,491 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 20:52:39,492 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 20:52:39,493 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 20:52:39,494 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 20:52:39,494 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 20:52:39,494 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 20:52:39,495 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 20:52:39,497 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 20:52:39,497 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 20:52:39,497 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 20:52:39,498 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 20:52:39,498 - INFO - Reserva cancelada: codigo 2
+2026-11-16 20:52:39,499 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 20:52:39,499 - WARNING - Intento de busqueda de reserva inexistente: 1
+2026-11-16 20:52:39,499 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 20:54:09,315 - INFO - Cliente registrado: 123456
+2026-11-16 20:54:09,316 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 20:54:09,317 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 20:54:09,318 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 20:54:09,318 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 20:54:09,318 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 20:54:09,319 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 20:54:09,320 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 20:54:09,322 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 20:54:09,322 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 20:54:09,322 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 20:54:09,323 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 20:54:09,323 - INFO - Reserva cancelada: codigo 2
+2026-11-16 20:54:09,324 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 20:54:09,325 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 21:44:52,033 - INFO - Cliente registrado: 123456
+2026-11-16 21:44:52,035 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 21:44:52,036 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 21:44:52,037 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 21:44:52,037 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 21:44:52,038 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 21:44:52,039 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 21:44:52,040 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 21:44:52,042 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 21:44:52,042 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 21:44:52,043 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 21:44:52,043 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 21:44:52,044 - INFO - Reserva cancelada: codigo 2
+2026-11-16 21:44:52,044 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 21:44:52,045 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 21:45:27,550 - INFO - Cliente registrado: 123456
+2026-11-16 21:45:27,551 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 21:45:27,552 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 21:45:27,553 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 21:45:27,553 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 21:45:27,554 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 21:45:27,554 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 21:45:27,555 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 21:45:27,557 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 21:45:27,558 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 21:45:27,558 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 21:45:27,559 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 21:45:27,559 - INFO - Reserva cancelada: codigo 2
+2026-11-16 21:45:27,560 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 21:45:27,561 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 22:50:52,343 - INFO - Cliente registrado: 123456
+2026-11-16 22:50:52,344 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 22:50:52,345 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 22:50:52,346 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 22:50:52,346 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 22:50:52,347 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 22:50:52,347 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 22:50:52,348 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 22:50:52,349 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 22:50:52,350 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 22:50:52,350 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 22:50:52,350 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 22:50:52,351 - INFO - Reserva cancelada: codigo 2
+2026-11-16 22:50:52,351 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 22:50:52,352 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 22:52:43,133 - INFO - Cliente registrado: 123456
+2026-11-16 22:52:43,134 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 22:52:43,135 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 22:52:43,136 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 22:52:43,137 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 22:52:43,137 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 22:52:43,138 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 22:52:43,138 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 22:52:43,140 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 22:52:43,141 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 22:52:43,141 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 22:52:43,142 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 22:52:43,142 - INFO - Reserva cancelada: codigo 2
+2026-11-16 22:52:43,143 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 22:52:43,144 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 22:57:03,811 - INFO - Cliente registrado: 123456
+2026-11-16 22:57:03,812 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 22:57:03,813 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 22:57:03,814 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 22:57:03,814 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 22:57:03,815 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 22:57:03,815 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 22:57:03,816 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 22:57:03,817 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 22:57:03,818 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 22:57:03,819 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 22:57:03,819 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 22:57:03,820 - INFO - Reserva cancelada: codigo 2
+2026-11-16 22:57:03,820 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 22:57:03,822 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 22:58:36,416 - INFO - Cliente registrado: 123456
+2026-11-16 22:58:36,417 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 22:58:36,418 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 22:58:36,419 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 22:58:36,420 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 22:58:36,420 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 22:58:36,421 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 22:58:36,421 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 22:58:36,423 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 22:58:36,424 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 22:58:36,424 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 22:58:36,424 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 22:58:36,425 - INFO - Reserva cancelada: codigo 2
+2026-11-16 22:58:36,425 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 22:58:36,425 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 23:04:18,510 - INFO - Cliente registrado: 123456
+2026-11-16 23:04:18,511 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 23:04:18,512 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:04:18,513 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 23:04:18,514 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 23:04:18,514 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 23:04:18,515 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 23:04:18,515 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 23:04:18,517 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 23:04:18,518 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 23:04:18,518 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 23:04:18,519 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:04:18,519 - INFO - Reserva cancelada: codigo 2
+2026-11-16 23:04:18,520 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 23:04:18,521 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 23:05:02,818 - INFO - Cliente registrado: 123456
+2026-11-16 23:05:02,819 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 23:05:02,820 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:05:02,821 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 23:05:02,821 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 23:05:02,821 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 23:05:02,822 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 23:05:02,823 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 23:05:02,825 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 23:05:02,825 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 23:05:02,826 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 23:05:02,827 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:05:02,828 - INFO - Reserva cancelada: codigo 2
+2026-11-16 23:05:02,828 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 23:05:02,829 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 23:07:40,918 - INFO - Cliente registrado: 123456
+2026-11-16 23:07:40,919 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 23:07:40,920 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:07:40,921 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 23:07:40,921 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 23:07:40,922 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 23:07:40,922 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 23:07:40,923 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 23:07:40,925 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 23:07:40,925 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 23:07:40,926 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 23:07:40,926 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:07:40,927 - INFO - Reserva cancelada: codigo 2
+2026-11-16 23:07:40,928 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 23:07:40,928 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 23:10:04,684 - INFO - Cliente registrado: 123456
+2026-11-16 23:10:04,685 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 23:10:04,686 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:10:04,687 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 23:10:04,688 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 23:10:04,688 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 23:10:04,689 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 23:10:04,689 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 23:10:04,691 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 23:10:04,691 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 23:10:04,692 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 23:10:04,693 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:10:04,693 - INFO - Reserva cancelada: codigo 2
+2026-11-16 23:10:04,694 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 23:10:04,695 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-16 23:26:43,470 - INFO - Cliente registrado: 123456
+2026-11-16 23:26:43,471 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-16 23:26:43,472 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:26:43,473 - INFO - Servicio registrado: Sala de reuniones
+2026-11-16 23:26:43,473 - INFO - Servicio registrado: Alquiler de computador
+2026-11-16 23:26:43,474 - INFO - Servicio registrado: Asesoria informatica
+2026-11-16 23:26:43,474 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-16 23:26:43,475 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-16 23:26:43,477 - INFO - Reserva registrada: codigo 2, cliente 123456,servicio Sala de reuniones
+2026-11-16 23:26:43,477 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-16 23:26:43,478 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-16 23:26:43,479 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-16 23:26:43,479 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-16 23:26:43,480 - INFO - Reserva cancelada: codigo 2
+2026-11-16 23:26:43,480 - WARNING - Intento de cancelar una reserva ya cancelada: 2
+2026-11-16 23:26:43,481 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 11:57:00,314 - INFO - Cliente registrado: 123456
+2026-11-17 11:57:00,315 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 11:57:00,317 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 11:57:00,318 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 11:57:00,318 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 11:57:00,319 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 11:57:00,320 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 11:57:00,321 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 11:57:00,324 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 12:02:23,945 - INFO - Cliente registrado: 123456
+2026-11-17 12:02:23,946 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 12:02:23,947 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 12:02:23,949 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 12:02:23,949 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 12:02:23,950 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 12:02:23,951 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 12:02:23,951 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 12:02:23,954 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 12:02:23,954 - INFO - Reserva confirmada: codigo 1
+2026-11-17 12:02:23,954 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 12:02:23,955 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 12:02:23,955 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 12:02:23,956 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 12:02:23,956 - INFO - Reserva cancelada: codigo 1
+2026-11-17 12:02:23,957 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 12:02:23,957 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 12:04:41,270 - INFO - Cliente registrado: 123456
+2026-11-17 12:04:41,271 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 12:04:41,273 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 12:04:41,274 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 12:04:41,275 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 12:04:41,275 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 12:04:41,276 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 12:04:41,277 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 12:04:41,279 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 12:04:41,280 - INFO - Reserva confirmada: codigo 1
+2026-11-17 12:04:41,281 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 12:04:41,282 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 12:04:41,283 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 12:04:41,284 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 12:04:41,285 - INFO - Reserva cancelada: codigo 1
+2026-11-17 12:04:41,286 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 12:04:41,287 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 12:08:59,385 - INFO - Cliente registrado: 123456
+2026-11-17 12:08:59,386 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 12:08:59,388 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 12:08:59,389 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 12:08:59,390 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 12:08:59,390 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 12:08:59,391 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 12:08:59,392 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 12:08:59,394 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 12:08:59,395 - INFO - Reserva confirmada: codigo 1
+2026-11-17 12:08:59,396 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 12:08:59,397 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 12:08:59,398 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 12:08:59,398 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 12:08:59,400 - INFO - Reserva cancelada: codigo 1
+2026-11-17 12:08:59,401 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 12:08:59,402 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 12:08:59,404 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 13:11:38,622 - INFO - Cliente registrado: 123456
+2026-11-17 13:11:38,624 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 13:11:38,626 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:11:38,627 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 13:11:38,628 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 13:11:38,628 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 13:11:38,628 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 13:11:38,629 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 13:11:38,630 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 13:11:38,631 - INFO - Reserva confirmada: codigo 1
+2026-11-17 13:11:38,631 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 13:11:38,632 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 13:11:38,632 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 13:11:38,633 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:11:38,633 - INFO - Reserva cancelada: codigo 1
+2026-11-17 13:11:38,633 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 13:11:38,634 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 13:11:38,634 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 13:28:39,164 - INFO - Cliente registrado: 123456
+2026-11-17 13:28:39,166 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 13:28:39,167 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:28:39,168 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 13:28:39,169 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 13:28:39,170 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 13:28:39,171 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 13:28:39,172 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 13:28:39,175 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 13:28:39,176 - INFO - Reserva confirmada: codigo 1
+2026-11-17 13:28:39,177 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 13:28:39,178 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 13:28:39,179 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 13:28:39,179 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:28:39,180 - INFO - Reserva cancelada: codigo 1
+2026-11-17 13:28:39,181 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 13:28:39,182 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 13:28:39,183 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 13:34:43,237 - INFO - Cliente registrado: 123456
+2026-11-17 13:34:43,238 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 13:34:43,240 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:34:43,241 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 13:34:43,242 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 13:34:43,242 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 13:34:43,243 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 13:34:43,244 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 13:34:43,247 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 13:34:43,248 - INFO - Reserva confirmada: codigo 1
+2026-11-17 13:34:43,249 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 13:34:43,250 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 13:34:43,251 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 13:34:43,252 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:34:43,253 - INFO - Reserva cancelada: codigo 1
+2026-11-17 13:34:43,254 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 13:34:43,254 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 13:34:43,255 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 13:54:56,154 - INFO - Cliente registrado: 123456
+2026-11-17 13:54:56,155 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 13:54:56,157 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:54:56,158 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 13:54:56,159 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 13:54:56,159 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 13:54:56,160 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 13:54:56,161 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 13:54:56,164 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 13:54:56,165 - INFO - Reserva confirmada: codigo 1
+2026-11-17 13:54:56,166 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 13:54:56,167 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 13:54:56,168 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 13:54:56,169 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:54:56,170 - INFO - Reserva cancelada: codigo 1
+2026-11-17 13:54:56,171 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 13:54:56,171 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 13:54:56,173 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 13:59:44,459 - INFO - Cliente registrado: 123456
+2026-11-17 13:59:44,460 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 13:59:44,462 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:59:44,463 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 13:59:44,464 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 13:59:44,464 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 13:59:44,465 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 13:59:44,466 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 13:59:44,469 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 13:59:44,470 - INFO - Reserva confirmada: codigo 1
+2026-11-17 13:59:44,472 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 13:59:44,473 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 13:59:44,474 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 13:59:44,475 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:59:44,475 - INFO - Reserva cancelada: codigo 1
+2026-11-17 13:59:44,476 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 13:59:44,477 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 13:59:44,479 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 13:59:49,514 - INFO - Cliente registrado: 123456
+2026-11-17 13:59:49,516 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 13:59:49,517 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:59:49,519 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 13:59:49,519 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 13:59:49,520 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 13:59:49,521 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 13:59:49,522 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 13:59:49,524 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 13:59:49,525 - INFO - Reserva confirmada: codigo 1
+2026-11-17 13:59:49,528 - WARNING - Intento de registrar una reserva duplicada: {reserva.codigo}
+2026-11-17 13:59:49,529 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 13:59:49,529 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 13:59:49,530 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 13:59:49,530 - INFO - Reserva cancelada: codigo 1
+2026-11-17 13:59:49,531 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 13:59:49,531 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 13:59:49,532 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 14:42:57,351 - INFO - Cliente registrado: 123456
+2026-11-17 14:42:57,353 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 14:42:57,354 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 14:42:57,356 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 14:42:57,356 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 14:42:57,357 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 14:42:57,358 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 14:42:57,359 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 14:42:57,361 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 14:42:57,362 - INFO - Reserva confirmada: codigo 1
+2026-11-17 14:42:57,364 - WARNING - Intento de registrar una reserva duplicada: 1
+2026-11-17 14:42:57,364 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 14:42:57,366 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 14:42:57,366 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 14:42:57,367 - INFO - Reserva cancelada: codigo 1
+2026-11-17 14:42:57,368 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 14:42:57,369 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 14:42:57,370 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 14:59:55,091 - INFO - Cliente registrado: 123456
+2026-11-17 14:59:55,093 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 14:59:55,094 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 14:59:55,095 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 14:59:55,096 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 14:59:55,097 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 14:59:55,097 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 14:59:55,098 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 14:59:55,101 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 14:59:55,102 - INFO - Reserva confirmada: codigo 1
+2026-11-17 14:59:55,103 - WARNING - Intento de registrar una reserva duplicada: 1
+2026-11-17 14:59:55,104 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 14:59:55,105 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 14:59:55,106 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 14:59:55,106 - INFO - Reserva cancelada: codigo 1
+2026-11-17 14:59:55,107 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 14:59:55,108 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 14:59:55,110 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 15:23:16,516 - INFO - Cliente registrado: 123456
+2026-11-17 15:23:16,517 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 15:23:16,519 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 15:23:16,520 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 15:23:16,521 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 15:23:16,521 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 15:23:16,522 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 15:23:16,522 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 15:23:16,525 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 15:23:16,525 - INFO - Reserva confirmada: codigo 1
+2026-11-17 15:23:16,526 - WARNING - Intento de registrar una reserva duplicada: 1
+2026-11-17 15:23:16,526 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 15:23:16,527 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 15:23:16,527 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 15:23:16,527 - INFO - Reserva cancelada: codigo 1
+2026-11-17 15:23:16,528 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 15:23:16,528 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 15:23:16,529 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 15:25:35,832 - INFO - Cliente registrado: 123456
+2026-11-17 15:25:35,833 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 15:25:35,835 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 15:25:35,837 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 15:25:35,837 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 15:25:35,838 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 15:25:35,839 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 15:25:35,840 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 15:25:35,842 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 15:25:35,843 - INFO - Reserva confirmada: codigo 1
+2026-11-17 15:25:35,844 - WARNING - Intento de registrar una reserva duplicada: 1
+2026-11-17 15:25:35,845 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 15:25:35,846 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 15:25:35,847 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 15:25:35,847 - INFO - Reserva cancelada: codigo 1
+2026-11-17 15:25:35,848 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 15:25:35,849 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 15:25:35,850 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 15:31:34,594 - INFO - Cliente registrado: 123456
+2026-11-17 15:31:34,595 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 15:31:34,597 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 15:31:34,598 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 15:31:34,599 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 15:31:34,600 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 15:31:34,601 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 15:31:34,601 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 15:31:34,604 - INFO - Reserva registrada: codigo 1, cliente 123456,servicio Sala de reuniones
+2026-11-17 15:31:34,605 - INFO - Reserva confirmada: codigo 1
+2026-11-17 15:31:34,606 - WARNING - Intento de registrar una reserva duplicada: 1
+2026-11-17 15:31:34,607 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 15:31:34,608 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 15:31:34,608 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 15:31:34,610 - INFO - Reserva cancelada: codigo 1
+2026-11-17 15:31:34,611 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 15:31:34,611 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 15:31:34,613 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 17:33:37,492 - INFO - Cliente registrado: 123456
+2026-11-17 17:33:37,494 - WARNING - Intento de registrar cliente duplicado: 123456
+2026-11-17 17:33:37,496 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 17:33:37,497 - INFO - Servicio registrado: Sala de reuniones
+2026-11-17 17:33:37,498 - INFO - Servicio registrado: Alquiler de computador
+2026-11-17 17:33:37,499 - INFO - Servicio registrado: Asesoria informatica
+2026-11-17 17:33:37,500 - WARNING - Intento de registrar servicio duplicado: Sala de reuniones
+2026-11-17 17:33:37,501 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 17:33:37,503 - INFO - Reserva registrada: codigo 1, cliente 123456, servicio Sala de reuniones
+2026-11-17 17:33:37,504 - INFO - Reserva confirmada: codigo 1
+2026-11-17 17:33:37,506 - WARNING - Intento de registrar una reserva duplicada: 1
+2026-11-17 17:33:37,507 - WARNING - Intento de reserva con cliente no registrado: 987654
+2026-11-17 17:33:37,508 - WARNING - Intento de reserva con servicio no registrado: Sala externa
+2026-11-17 17:33:37,509 - WARNING - Intento de busqueda de cliente inexistente: 999999
+2026-11-17 17:33:37,510 - INFO - Reserva cancelada: codigo 1
+2026-11-17 17:33:37,511 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-17 17:33:37,511 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-17 17:33:37,513 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-17 18:16:10,717 - INFO - Cliente registrado: 1048269888
+2026-11-17 18:16:36,004 - WARNING - Intento de registrar cliente duplicado: 1048269888
+2026-11-17 20:18:04,912 - INFO - Servicio registrado: Alquiler sala
+2026-11-17 20:20:53,155 - INFO - Servicio registrado: Alquiler pc
+2026-11-17 20:21:11,494 - INFO - Servicio registrado: asesoria legal
+2026-11-17 20:45:40,472 - WARNING - Intento de busqueda de servicio inexistente: 4
+2026-11-17 20:46:22,740 - INFO - Servicio registrado: alquiler sala
+2026-11-17 20:47:29,751 - WARNING - Intento de busqueda de servicio inexistente: Alquiler sala
+2026-11-17 20:47:39,087 - WARNING - Intento de busqueda de servicio inexistente: Alquiler pc
+2026-11-17 20:47:56,451 - WARNING - Intento de busqueda de servicio inexistente: Servicio inexistente
+2026-11-17 21:23:35,605 - INFO - Servicio registrado: Alquiler sala
+2026-11-17 21:23:46,569 - INFO - Servicio registrado: Alquiler pc
+2026-11-18 08:38:29,677 - INFO - Cliente registrado: 1048269888
+2026-11-18 08:39:41,060 - WARNING - Intento de busqueda de servicio inexistente: reserva restaurante
+2026-11-18 08:40:16,090 - WARNING - Intento de busqueda de servicio inexistente: alquiler sala
+2026-11-18 08:41:12,060 - INFO - Cliente registrado: 1048269888
+2026-11-18 08:42:24,477 - INFO - Cliente registrado: 1048269888
+2026-11-18 08:42:44,331 - INFO - Servicio registrado: alquiler play
+2026-11-18 08:43:24,855 - WARNING - Intento de busqueda de servicio inexistente: reserva restaurante
+2026-11-18 08:46:12,158 - INFO - Cliente registrado: 1048269888
+2026-11-18 08:46:38,297 - INFO - Servicio registrado: alquiler play
+2026-11-18 08:47:00,114 - INFO - Reserva registrada: codigo 1, cliente 1048269888, servicio alquiler play
+2026-11-18 08:48:24,147 - INFO - Reserva confirmada: codigo 1
+2026-11-18 08:48:51,613 - INFO - Reserva cancelada: codigo 1
+2026-11-18 08:49:25,120 - WARNING - Intento de confirmar una reserva cancelada: 1
+2026-11-18 08:54:21,694 - WARNING - Intento de cancelar una reserva ya cancelada: 1
+2026-11-18 09:10:56,983 - WARNING - Intento de busqueda con nombre de servicio vacio
+2026-11-18 09:57:40,101 - INFO - Cliente registrado: 1048269888
+2026-11-18 10:07:33,858 - INFO - Servicio registrado: alquiler pc
+2026-11-18 10:10:05,425 - INFO - Servicio registrado: alguiler play
+2026-11-18 10:22:45,626 - WARNING - Intento de busqueda de cliente inexistente: 1048269888
+2026-11-18 10:23:14,850 - INFO - Cliente registrado: 1048269888
+2026-11-18 10:24:23,008 - WARNING - Intento de busqueda de servicio inexistente: alguiler play
+2026-11-18 10:24:52,452 - INFO - Cliente registrado: 1048269888
+2026-11-18 10:25:07,546 - INFO - Servicio registrado: alquiler play
+2026-11-18 10:25:32,165 - INFO - Reserva registrada: codigo 1, cliente 1048269888, servicio alquiler play
+2026-11-18 10:29:42,311 - WARNING - Intento de busqueda de cliente inexistente: 99999999999
+2026-11-18 10:34:37,011 - WARNING - Intento de busqueda de servicio inexistente: alquiler playa
+2026-11-18 13:42:05,766 - INFO - Reserva registrada: codigo 2, cliente 1048269888, servicio alquiler play
+2026-11-18 13:42:23,743 - INFO - Reserva registrada: codigo 3, cliente 1048269888, servicio alquiler play
+2026-11-18 14:02:17,642 - INFO - Cliente registrado: 1048269888
+2026-11-18 14:02:40,612 - INFO - Servicio registrado: alquiler play
+2026-11-18 14:03:00,930 - INFO - Reserva registrada: codigo 1, cliente 1048269888, servicio alquiler play
+2026-11-18 14:03:17,334 - WARNING - Intento de registrar una reserva duplicada
+2026-11-18 14:04:12,232 - INFO - Reserva cancelada: codigo 1
+2026-11-18 14:04:27,866 - INFO - Reserva registrada: codigo 3, cliente 1048269888, servicio alquiler play
+2026-11-18 14:05:59,054 - WARNING - Intento de busqueda de reserva inexistente: 999
+2026-11-18 14:06:56,495 - INFO - Reserva confirmada: codigo 3
+2026-11-18 14:08:15,169 - INFO - Reserva cancelada: codigo 3
+2026-11-18 14:09:08,689 - WARNING - Intento de cancelar una reserva ya cancelada: 3
+2026-11-18 14:10:24,347 - WARNING - Intento de busqueda de cliente inexistente: 9999999999999
+2026-11-18 14:11:18,229 - WARNING - Intento de registrar cliente duplicado: 1048269888
+2026-11-18 14:12:57,270 - WARNING - Intento de registrar cliente duplicado: 1048269888
+2026-11-18 14:14:59,449 - WARNING - Intento de registrar servicio duplicado: alquiler play
+2026-11-18 14:15:39,058 - WARNING - Intento de busqueda de servicio inexistente: alquilar play
+2026-11-18 14:34:30,582 - WARNING - Intento de busqueda de servicio inexistente: servicio inexistente
